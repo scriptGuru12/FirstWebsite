@@ -1,4 +1,4 @@
-# Powershell Repo  
+# Powershell Repository
 
 <br>
 

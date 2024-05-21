@@ -6,10 +6,10 @@
 <br>
 
 ## Top 3 Features
-
-* 🛡️ Reporting & Troubleshooting
-* 🤖 Automation
 * 📚 Guides
+* 🤖 Automation
+* 🛡️ Reporting & Troubleshooting
+
 <br>
 
 **[Uncover the Project - Click Here](https://github.com/MrOlof/Intune.git)**

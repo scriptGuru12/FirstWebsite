@@ -7,7 +7,7 @@
 
 ## Top 3 Features
 
-* 🛡️ Security Baseline
+* 🛡️ Reporting & Troubleshooting
 * 🤖 Automation
 * 📚 Guides
 <br>

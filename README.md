@@ -1,3 +1,2 @@
-<div align="center">
-  <img src="https://i.imgur.com/58ov7ab.gif" alt="demo">
-</div>
+https://github.com/MrOlof/Website/assets/100124559/0a6d3b4e-4738-4982-ade7-678d21485d57
+

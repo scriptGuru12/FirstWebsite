@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://i.imgur.com/m1aBisC.jpeg" height="200">
+<img src="https://i.imgur.com/QkGku3U.png" height="200">
 <be>
 
 ## Current website

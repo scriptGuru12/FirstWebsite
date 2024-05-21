@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/MrOlof/Website/assets/100124559/236ae754-1dc7-4a33-b137-2986f8fcdaf2" height="200">
+<img src="https://i.imgur.com/1JPbiMP.png" height="200">
 <br>
 
 **WORK IN PROGRESS!**

@@ -1,7 +1,7 @@
 # Chrome Extension - SpaceTab
 <br>
 
-<img src="https://i.imgur.com/jXbAtoH.jpeg" height="200">
+<img src="https://i.imgur.com/Rj6DaKc.png" height="200">
 <br>
 
 ## Top 3 Features

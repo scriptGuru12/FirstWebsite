@@ -1,5 +1,4 @@
-# Powershell Repository
-
+# Chrome Extension - SpaceTab
 <br>
 
 <img src="https://i.imgur.com/jXbAtoH.jpeg" height="200">
